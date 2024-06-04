@@ -1,6 +1,8 @@
 import kotlin.time.measureTimedValue
 
 fun main() {
+
+    /*
     print("Ingrese primer valor:")
      //readln() captura la entrada del teclado
      // . toInt() convierte  los datos de entrada a tipo numerico
@@ -11,6 +13,8 @@ fun main() {
      println("La suma de $valor1 + $valor2 es $suma")
      val producto = valor1 * valor2
      println("El porducto es $valor1 x $valor2 es $producto")
+
+     */
 
 
 

@@ -1,5 +1,7 @@
-fun main() {
-    print("Ingrese primer valor:")
+
+/*fun main() {
+
+   /* print("Ingrese primer valor:")
     val valor1 = readln().toInt()
     print("Ingrese segundo valor:")
     val valor2 = readln().toInt()
@@ -21,6 +23,4 @@ fun main() {
     print(resultado)
 }
 
-
-println("Ingrese el valor")
-        val1 valor =
+*/
