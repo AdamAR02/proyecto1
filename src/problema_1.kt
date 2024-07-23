@@ -1,5 +1,5 @@
 fun main(){
-
+/*
     //Variable tipo Char, me permite alamacenar
     var continuar: Char = 's'
 
@@ -15,5 +15,5 @@ fun main(){
     valor1=100
     valor2=2000
     var resultado:
-
+*/
 }
