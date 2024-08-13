@@ -1,6 +1,7 @@
 package Conceptos_POO
 
 class persona{
+
     var nombre: String = ""
     var edad: Int = 0
 
@@ -19,21 +20,18 @@ class persona{
             println("No es mayor de edad $nombre ")
     }
 
-    fun main(){
-        fun main(parametro: Array<String>) {
-            val persona1: persona
-            persona1 = persona()
-            persona1.inicializador("Pedro", 16)
-            persona1.imprimiendo()
-            persona1.esMayorEdad()
-        }
 
-        fun main(){
-            fun main(parametro: Array<String>) {
-                val persona2: persona
-                persona2 = persona()
-                persona2.inicializador("Ana", 50)
-                persona2.imprimiendo()
-                persona2.esMayorEdad()
-            }
-        }
+}
+    fun main() {
+        val persona1: persona
+        persona1 = persona()
+        persona1.inicializador("Pedro", 16)
+        persona1.imprimiendo()
+        persona1.esMayorEdad()
+
+        val persona2: persona
+        persona2 = persona()
+        persona2.inicializador("Ana", 50)
+        persona2.imprimiendo()
+        persona2.esMayorEdad()
+    }
